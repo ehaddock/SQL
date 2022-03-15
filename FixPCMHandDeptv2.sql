@@ -1,4 +1,5 @@
 /****** Script for SelectTopNRows command from SSMS  ******/
+/****** Script for SelectTopNRows command from SSMS  ******/
 SELECT pp.[PATIENTID]
       ,pp.[LAST_NAME]
       ,pp.[FIRST_NAME]
